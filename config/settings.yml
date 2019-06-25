@@ -1,0 +1,4 @@
+plugins:
+  private_inbox_enabled:
+    default: true
+    client: true
